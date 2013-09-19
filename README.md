@@ -1,4 +1,4 @@
-Respect Relational Service Provider
+Respect Relational Service Provider [![Build Status](https://travis-ci.org/williancarminato/respect-relational-silex-provider.png)](https://travis-ci.org/williancarminato/respect-relational-silex-provider)
 ===================================
 
 Provides Respect Relational Mapper to use as services on Silex applications.
