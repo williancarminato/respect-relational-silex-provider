@@ -18,7 +18,7 @@ Requirements
 Instalation
 -----------
 
-Package available on [Composer](). Autoloading with [composer](http://getcomposer.org/) is [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md) compatible.
+Package available on [Composer](https://packagist.org/packages/williancarminato/respect-relational-silex-provider). Autoloading with [composer](http://getcomposer.org/) is [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md) compatible.
 
 Usage
 -----
