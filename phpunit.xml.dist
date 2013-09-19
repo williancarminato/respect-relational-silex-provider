@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit colors="true" bootstrap="vendor/autoload.php">
+    <testsuites>
+        <testsuite name="Respect Relational Service Provider Test Suite">
+            <directory>./tests/Carminato/Silex/Provider/Respect/</directory>
+        </testsuite>
+    </testsuites>
+
+    <filter>
+        <whitelist>
+            <directory>./src/Carminato/Silex/Provider/Respect/</directory>
+        </whitelist>
+    </filter>
+</phpunit>

@@ -1,0 +1,22 @@
+{
+    "name": "williancarminato/respect-relational-silex-provider",
+    "description": "Respect Relational Service Provider to use with Silex microframework",
+    "homepage": "http://github.com/williancarminato/respect-relational-silex-provider",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Willian Campideli Carminato",
+            "email": "williancarminato@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "respect/relational": "dev-master",
+        "silex/silex": "~1.0"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Carminato\\Silex\\Provider\\Respect" : "src/"
+        }
+    }
+}
